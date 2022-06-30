@@ -1,0 +1,8 @@
+ USR       DIR             IP          PASSWD
+teste1 ~/Arquivos     192.168.1.102    ******
+teste2 ~/Imagens      192.168.1.105    ******
+teste3 ~/Documentos   192.168.1.108    ******
+
+
+CAMINHO DO SERVIDOR DE BACKUP
+/home/ifpb/Backup
